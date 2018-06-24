@@ -17,11 +17,11 @@
 
 ## View my project
 
-Check out my [GitHub Pages](https://sarakinell.github.io/thevisproject/) and tick the `Home` button to get started. You may enter the different blog posts by clicking on their interactive graphics. The navigation helps you to find the `Home` page (also via the logo in the top left corner), the `Blog` page (where all posts are listed), and the `About` page with general information as well as a contact form at the very bottom. Thank you for your time in browsing through my very first website project!
+Check out my [GitHub Pages](https://sarakinell.github.io/thevisproject/) and tick the `Home` button to get started. You may enter the different blog posts by clicking on their interactive graphics. The navigation helps you to find the `Home` page (also via the logo in the top left corner), the `Blog` page (where all posts are listed), and the `About` page with general information as well as a contact form at the very bottom. Thank you for your time in browsing through my very first website!
 
 ## Course in Webdevelopment
 
-Since the course in [Web Engineering](https://globis.ethz.ch/#!/course/web-engineering-2017/) at ETH Zürich after Spring 2017 no longer takes place, I was delighted to find the course in [Webentwicklung für Datenjournalisten](https://lms.uzh.ch/olat/dmz/) at the University of Zürich.
+Since the course in [Web Engineering](https://globis.ethz.ch/#!/course/web-engineering-2017/) at ETH Zürich after Spring 2017 no longer takes place, I was delighted to find the course in [Webentwicklung für Datenjournalisten](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2017/004/E/50875305) at the University of Zürich.
 
 This hands-on, project-based course is centered around the challenge of creating a **responsive website with interactive graphics**. Nowadays, it is certainly important with responsiveness, due to the increasingly large usage of mobile devices and all kinds of screen sizes, but _also_ because of Search Engine Optimization and the decreased chances of being [found on the world wide web](https://moz.com/blog/mobile-first-indexing-seo) when not providing an adaptive website.
 

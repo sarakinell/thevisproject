@@ -16,7 +16,7 @@ class Engagement extends React.Component {
               individuals in each group. Men and women are respectively divided
               into citizens in large cities and suburb counties, and all
               remaining, more rural counties. Source:{" "}
-              <a href="http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0101__LE0101M/LE0101M06B/table/tableViewLayout1/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0 ">
+              <a href="https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0101__LE0101M/LE0101M06B/table/tableViewLayout1/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0 ">
                 Statistics Sweden (Statistiska Centralbyrån)
               </a>{" "}
               (May, 2018).
@@ -57,7 +57,7 @@ class Engagement extends React.Component {
               being active in a political party, having participated in a
               meeting with a political party the last year, and the ones being
               members of a political party. The{" "}
-              <a href="http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0101__LE0101M/LE0101M06B/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0">
+              <a href="https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__LE__LE0101__LE0101M/LE0101M06B/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0">
                 {" "}
                 full survey
               </a>{" "}
@@ -79,7 +79,7 @@ class Engagement extends React.Component {
             />
             <p className="post text">
               The engagement data seen in the browser console (fetched from the{" "}
-              <a href="http://www.scb.se/en/">Statistics Sweden</a> API), is
+              <a href="https://www.scb.se/en/">Statistics Sweden</a> API), is
               listing all historical political engagement levels recorded. They
               currently date back four elections, and show and increase in
               participation from 80.9% to 87% between 2002 and 2014. If this

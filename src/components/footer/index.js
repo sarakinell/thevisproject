@@ -7,16 +7,16 @@ class Footer extends React.Component {
       <footer className="blogpost-footer">
         <div className="left">
           <p className="footer-text">
-            <a href="http://www.riksdagen.se/en/">The Swedish Riksdag</a>
+            <a href="https://www.riksdagen.se/en/">The Swedish Riksdag</a>
             <br />
-            <a href="http://www.scb.se/en/">Statistics Sweden </a>
+            <a href="https://www.scb.se/en/">Statistics Sweden </a>
             <br />
             <a href="https://github.com/sarakinell/thevisproject">GitHub </a>
           </p>
         </div>
         <div className="center">
           <p className="footer-text">
-            Powered by <a href="http://nivo.rocks/">Nivo</a>,{" "}
+            Powered by <a href="https://nivo.rocks/">Nivo</a>,{" "}
             <a href="https://reactjs.org/">React</a> &{" "}
             <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">
               Flexbox

@@ -13,7 +13,7 @@ class HistoricalResults extends React.Component {
               number of votes for the eight largest political parties,
               categorised into the voting areas of Sweden's five largest cities,
               are graphically presented. Source:{" "}
-              <a href="http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0104__ME0104C/ME0104T3/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0">
+              <a href="https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0104__ME0104C/ME0104T3/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0">
                 Statistics Sweden (Statistiska Centralbyrån)
               </a>{" "}
               (May, 2018).
@@ -31,12 +31,12 @@ class HistoricalResults extends React.Component {
             </div>
             <p className="post text">
               The Social Democrats is{" "}
-              <a href="http://socialdemokraternagoteborg.se/">self-claimed</a>{" "}
+              <a href="https://socialdemokraternagoteborg.se/">self-claimed</a>{" "}
               to be the "forward-looking party in Gothenburg". "We love
               Gothenburg", they write in capital letters and iconography all
               over their red homepage. In the second largest city of Sweden,
               with approximately{" "}
-              <a href="http://international.goteborg.se/facts-figures">
+              <a href="https://international.goteborg.se/facts-figures">
                 533 000 citizens
               </a>, the four main focus areas for the S party are the following:
               <br />

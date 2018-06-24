@@ -13,7 +13,7 @@ class EUSeats extends React.Component {
               European Union. From the national vote in 2014, the main eight
               parties of Sweden were accompanied by the Feministic Initiative
               (FI), and the Pirate Party (P). Source:{" "}
-              <a href="http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0109__ME0109A/EUvalA/table/tableViewLayout1/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0 ">
+              <a href="https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0109__ME0109A/EUvalA/table/tableViewLayout1/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0 ">
                 Statistics Sweden (Statistiska Centralbyrån)
               </a>{" "}
               (May, 2018).
@@ -49,13 +49,13 @@ class EUSeats extends React.Component {
               <br />The EU budget is not claiming a purpose of redistributing
               wealth between the countries in the union, but rather to support
               all of the member countries' citizens. Sweden{" "}
-              <a href="http://ec.europa.eu/budget/mycountry/SE/index_en.cfm">
+              <a href="https://ec.europa.eu/budget/mycountry/SE/index_en.cfm">
                 received
               </a>{" "}
               an amount of €1.7 billion from the EU in 2016. This may sound like
               an extraordinary high number, but when compared to the money
               Sweden{" "}
-              <a href="http://ec.europa.eu/budget/mycountry/SE/index_en.cfm">
+              <a href="https://ec.europa.eu/budget/mycountry/SE/index_en.cfm">
                 contributed
               </a>{" "}
               to the union, €3.3 billion, the year clearly resulted in a

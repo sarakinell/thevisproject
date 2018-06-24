@@ -75,7 +75,7 @@ class Engagement extends React.Component {
             </p>
             <SCBData
               text="Engagement data from previous elections (see browser console)"
-              url="http://api.scb.se/OV0104/v1/doris/en/ssd/START/ME/ME0105/ME0105C/ME0105T04"
+              url="https://api.scb.se/OV0104/v1/doris/en/ssd/START/ME/ME0105/ME0105C/ME0105T04"
             />
             <p className="post text">
               The engagement data seen in the browser console (fetched from the{" "}

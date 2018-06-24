@@ -1,7 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Table of Contents
 
@@ -35,6 +32,14 @@ This hands-on, project-based course is centered around the challenge of creating
 - Display data from a database on a webpage
 - Learn webdevelopment through independent practise and information gathering
 
+
+#### Additional objectives
+
+- Use Open Source
+- Create a website with Home, Blog and About pages
+- Make the blog dynamic by using a database
+
+
 ### Course program
 
 1.  Introduction
@@ -50,25 +55,36 @@ This hands-on, project-based course is centered around the challenge of creating
 11. Interactive Charts
 12. Responsive D3
 
+
 ## Technologies used
 
 I focused on using technologies that would fulfil the project purpose of creating a responsive website with interactive graphics. All are based on the different components treated as part of the [course program](#course-program).
+
 
 ### React
 
 [React](https://reactjs.org/) is a component-based JavaScript library, well suited for interactive websites. As soon as data changes in the application, the interface is efficiently rendered. What's more, [getting started](https://reactjs.org/docs/hello-world.html) with React is quick _and_ easy.
 
+
 ### Nivo
 
 [Nivo](https://nivo.rocks/) is built for [React](#react) _and_ upon the D3 library treated in the course. It provides server side rendering and beautiful charts.
 
+
 ### Firebase
+[Firebase](https://firebase.google.com/) has been used for the contact form on the `About` page. The form has a clean design and stores the email address and message written when `Send` is pressed by the user.
+
 
 ### REST API
 
 ### CSS Flexbox
 
 ## Next steps
+
+Next steps and additional considerations would be to include more blog posts, do a deeper analysis of the data from the Sweden Statistics, and complement quantitative information with qualitative. In order to optimise the design and intuition of the interface, more user tests as well as A/B testing would need to be performed. So far, the project has been presented to approximately 20 potential users.
+
+By using the Nivo framework, the format could not be combined with the information fetched from the REST API. Hence, the data was hardcoded into data files, except for statistics being pulled and printed in the browser console. The development of dynamic graphics would clearly be an interesting next step.
+
 
 ## Get in touch
 

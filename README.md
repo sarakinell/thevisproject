@@ -15,6 +15,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
   - [Firebase](#firebase)
   - [REST API](#rest-api)
   - [CSS Flexbox](#css-flexbox)
+- [Next steps](#next-steps)
 - [Get in touch](#get-in-touch)
 
 
@@ -26,7 +27,7 @@ Check out my [GitHub Pages](https://sarakinell.github.io/thevisproject/) and tic
 
 Since the course in [Web Engineering](https://globis.ethz.ch/#!/course/web-engineering-2017/) at ETH Zürich after Spring 2017 no longer takes place, I was delighted to find the course in [Webentwicklung für Datenjournalisten](https://lms.uzh.ch/olat/dmz/) at the University of Zürich.
 
-This hands-on, project-based course is centered around the challenge of creating a **responsive website with interactive graphics**. Nowadays, it is certainly important with responsiveness, due to the increasingly large usage of mobile devices and all kinds of screen sizes, but _also_ because of Search Engine Optimization and the decreased chances of being found on the world wide web when not providing an adaptive website.
+This hands-on, project-based course is centered around the challenge of creating a **responsive website with interactive graphics**. Nowadays, it is certainly important with responsiveness, due to the increasingly large usage of mobile devices and all kinds of screen sizes, but _also_ because of Search Engine Optimization and the decreased chances of being [found on the world wide web](https://moz.com/blog/mobile-first-indexing-seo) when not providing an adaptive website.
 
 
 ### Learning objectives
@@ -34,7 +35,7 @@ This hands-on, project-based course is centered around the challenge of creating
 * Master the foundations of webdevelopment
 * Fetch data from a database
 * Display data from a database on a webpage
-* Independently find information on and learn programming
+* Learn webdevelopment through independent practise and information gathering
 
 
 ### Course program
@@ -54,12 +55,22 @@ This hands-on, project-based course is centered around the challenge of creating
 
 
 ## Technologies used
+
+I focused on using technologies that would fulfil the project purpose of creating a responsive website with interactive graphics. All are based on the different components treated as part of the [course program](#course-program).
+
 ### React
+
+[React](https://reactjs.org/) is a component-based JavaScript library, well suited for interactive websites. As soon as data changes in the application, the interface is efficiently rendered. What's more, [getting started](https://reactjs.org/docs/hello-world.html) with React is quick _and_ easy.
+
 ### Nivo
+
+[Nivo](http://nivo.rocks/) is built for [React](#react) _and_ upon the D3 library treated in the course. It provides server side rendering and beautiful charts.
+
 ### Firebase
 ### REST API
 ### CSS Flexbox
+## Next steps
 ## Get in touch
 
-You can reach me [here](https://github.com/sarakinell), via [email](mailto:skinell@ethz.ch) or [Twitter](https://twitter.com/sarakinell). Don't hesistate to reach out if you have any kind of feedback, questions, comments or complaints (or if you are evaluating my project and cannot access the Firebase backend, for example).
+You can reach me [here](https://github.com/sarakinell), via [email](mailto:skinell@ethz.ch) or [Twitter](https://twitter.com/sarakinell). Don't hesistate to reach out if you have any kind of feedback, questions, comments or complaints (or if you are evaluating my project and cannot access the [Firebase](https://firebase.google.com/) backend, for example).
 

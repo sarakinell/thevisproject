@@ -17,7 +17,10 @@
 
 ## View my project
 
-Check out my [GitHub Pages](https://sarakinell.github.io/thevisproject/) and tick the `Home` button to get started. You may enter the different blog posts by clicking on their interactive graphics. The navigation helps you to find the `Home` page (also via the logo in the top left corner), the `Blog` page (where all posts are listed), and the `About` page with general information as well as a contact form at the very bottom. Thank you for your time in browsing through my very first website!
+Check out my [GitHub Pages](https://sarakinell.github.io/thevisproject/) and tick the `Home` button to get started. You may enter the different blog posts by clicking on their interactive graphics. The navigation helps you to find the `Home` page (also via the logo in the top left corner), the `Blog` page (where all posts are listed), and the `About` page with general information as well as a contact form at the very bottom. One drawback with this configuration of GitHub Pages is that going backwards in the browser history not always works as expected (then starting over from the [original URL](https://sarakinell.github.io/thevisproject/) is advised). A nice little addition, speaking of website addresses, is the customised ending of the URL for the different blog posts of this project.
+
+Thank you for your time in browsing through my very first website!
+
 
 ## Course in Webdevelopment
 
@@ -79,6 +82,8 @@ I focused on using technologies that would fulfil the project purpose of creatin
 ### REST API
 
 By making a POST call to the [Statistics Sweden](https://www.scb.se/en/), a JSON query can be used to fetch the information of interest. The API originally uses HTTP protocols to identify response status, and cannot be used when deploying a website via HTTPS for example. The naming conventions make the API like a REST API. The number of calls to the API are limited to 10 per 10s.
+
+The data pulled from the API can be seen in the browser console when entering the blog post about political engagement. The blog post is complemented by a radar chart, and when you expand the Arrays in the console, you find dynamically fetched values from the database, through calls in SCBData.js.
 
 
 ### CSS Flexbox

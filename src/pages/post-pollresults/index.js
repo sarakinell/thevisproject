@@ -15,7 +15,7 @@ class PollResults extends React.Component {
               Sweden Democrats, SD. The question answered by the survey
               participants was "How would you vote if the election was today?".
               Source:{" "}
-              <a href="http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0201__ME0201A/Vid11/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0">
+              <a href="https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0201__ME0201A/Vid11/?rxid=15929fcf-a58e-4098-8776-2fd3fe21c2f0">
                 Statistics Sweden (Statistiska Centralbyrån)
               </a>{" "}
               (May, 2018).

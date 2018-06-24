@@ -83,7 +83,7 @@ By making a POST call to the [Statistics Sweden](https://www.scb.se/en/), a JSON
 
 ### CSS Flexbox
 
-[CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) is an efficient way to create a layout, align and distribute space between containers, and among components within them. Different building blocks of a webpage can with CSS Flexbox therefore fill the available space, hence accomodate all kinds of displays and screen sizes. Therefore, this is a fantastic module to use for responsive behaviour. 
+[CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) is an efficient way to create a layout, align and distribute space between containers – and among components within them. Different building blocks of a webpage can with CSS Flexbox therefore fill the available space, hence accomodate all kinds of displays and screen sizes. Therefore, this is a fantastic module to use for responsive behaviour. 
 
 
 ## Next steps

@@ -1,0 +1,33 @@
+footer {
+  margin: 20px 20px;
+  padding: 1em;
+  height: 5em;
+}
+
+.left {
+  text-align: left;
+  float: left;
+  width: 33%;
+}
+
+.center {
+  float: left;
+  width: 33%;
+}
+
+.right {
+  float: left;
+  width: 33%;
+  text-align: right;
+}
+
+.footer-text {
+  color: #93c1e7;
+  font-size: 2.5vh;
+}
+
+@media (max-width: 540px) {
+  .footer-text {
+    font-size: 1.5vh;
+  }
+}

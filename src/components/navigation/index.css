@@ -1,0 +1,54 @@
+.header-container {
+  background-color: white;
+  height: 100px;
+  padding: 20px;
+  color: white;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+.title-wrapper {
+  height: 100px;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  flex-grow: 3;
+}
+
+.title-element {
+  font-size: 2em;
+  color: rgb(147, 193, 231);
+  justify-content: space-around;
+  padding-left: 2.5vw;
+}
+
+img.title-element {
+  max-height: 50px;
+}
+
+.navigation-wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.navigation-element {
+  flex: 1;
+}
+
+a {
+  color: #93c1e7;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cfdce7;
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}

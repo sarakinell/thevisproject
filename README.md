@@ -63,7 +63,7 @@ I focused on using technologies that would fulfil the project purpose of creatin
 
 ### React
 
-[React](https://reactjs.org/) is a component-based JavaScript library, well suited for interactive websites. As soon as data changes in the application, the interface is efficiently rendered. What's more, [getting started](https://reactjs.org/docs/hello-world.html) with React is quick _and_ easy.
+[React](https://reactjs.org/) is a component-based JavaScript library, well suited for interactive websites. As soon as data changes in the application, the interface is efficiently rendered. What's more, [getting started](https://reactjs.org/docs/hello-world.html) with React is fun and quick.
 
 
 ### Nivo
@@ -72,16 +72,23 @@ I focused on using technologies that would fulfil the project purpose of creatin
 
 
 ### Firebase
-[Firebase](https://firebase.google.com/) has been used for the contact form on the `About` page. The form has a clean design and stores the email address and message written when `Send` is pressed by the user.
+
+[Firebase](https://firebase.google.com/) has been used for the contact form on the `About` page. The form has a clean design and stores the email address and message written when `Send` is pressed by the user. How the [React](#react) state is used to render the input in the email and message fields before sending the information off to the database, can all be followed in the console.
 
 
 ### REST API
 
+By making a POST call to the [Statistics Sweden](https://www.scb.se/en/), a JSON query can be used to fetch the information of interest. The API originally uses HTTP protocols to identify response status, and cannot be used when deploying a website via HTTPS for example. The naming conventions make the API like a REST API. The number of calls to the API are limited to 10 per 10s.
+
+
 ### CSS Flexbox
+
+[CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) is an efficient way to create a layout, align and distribute space between containers, and among components within them. Different building blocks of a webpage can with CSS Flexbox therefore fill the available space, hence accomodate all kinds of displays and screen sizes. Therefore, this is a fantastic module to use for responsive behaviour. 
+
 
 ## Next steps
 
-Next steps and additional considerations would be to include more blog posts, do a deeper analysis of the data from the Sweden Statistics, and complement quantitative information with qualitative. In order to optimise the design and intuition of the interface, more user tests as well as A/B testing would need to be performed. So far, the project has been presented to approximately 20 potential users.
+Next steps and additional considerations would be to include more blog posts, do a deeper analysis of the data from the [ Statistics Sweden](https://www.scb.se/en/), and complement quantitative information with qualitative. In order to optimise the design and intuition of the interface, more user tests as well as A/B testing would need to be performed. So far, the project has been presented to approximately 20 potential users.
 
 By using the Nivo framework, the format could not be combined with the information fetched from the REST API. Hence, the data was hardcoded into data files, except for statistics being pulled and printed in the browser console. The development of dynamic graphics would clearly be an interesting next step.
 

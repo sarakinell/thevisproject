@@ -83,7 +83,7 @@ I focused on using technologies that would fulfil the project purpose of creatin
 
 By making a POST call to the [Statistics Sweden](https://www.scb.se/en/), a JSON query can be used to fetch the information of interest. The API originally uses HTTP protocols to identify response status, and cannot be used when deploying a website via HTTPS for example. The naming conventions make the API like a REST API. The number of calls to the API are limited to 10 per 10s.
 
-The data pulled from the API can be seen in the browser console when entering the blog post about political engagement. The blog post is complemented by a radar chart, and when you expand the Arrays in the console, you find dynamically fetched values from the database through calls in SCBData.js.
+The data pulled from the API can be seen in the browser console when entering the blog post about political engagement. The blog post is complemented by a radar chart, and when you expand the Object in the console, you find dynamically fetched values from the database through calls in SCBData.js.
 
 
 ### CSS Flexbox

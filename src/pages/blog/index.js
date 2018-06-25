@@ -1,5 +1,4 @@
 import React from "react";
-import "./index.css";
 import Card from "../../components/card";
 import BarChart from "../../components/barchart";
 import LineChart from "../../components/linechart";

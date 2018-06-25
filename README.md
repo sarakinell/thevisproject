@@ -24,7 +24,7 @@ Thank you for your time in browsing through my very first website!
 
 ## Course in Webdevelopment
 
-Since the course in [Web Engineering](https://globis.ethz.ch/#!/course/web-engineering-2017/) at ETH Zürich after Spring 2017 no longer takes place, I was delighted to find the course in [Webentwicklung für Datenjournalisten](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2017/004/E/50875305) at the University of Zürich.
+Since the course in [Web Engineering](https://globis.ethz.ch/#!/course/web-engineering-2017/) at ETH Zürich after spring 2017 no longer takes place, I was delighted to find the course in [Webentwicklung für Datenjournalisten](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2017/004/E/50875305) at the University of Zürich.
 
 This hands-on, project-based course is centered around the challenge of creating a **responsive website with interactive graphics**. Nowadays, it is certainly important with responsiveness, due to the increasingly large usage of mobile devices and all kinds of screen sizes, but _also_ because of Search Engine Optimization and the decreased chances of being [found on the world wide web](https://moz.com/blog/mobile-first-indexing-seo) when not providing an adaptive website.
 
